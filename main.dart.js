@@ -82206,7 +82206,7 @@ A.a9s.prototype={
 $1(a){return A.aw0().RW(a)},
 $S:509}
 A.abo.prototype={
-$2(a,b){return"/post/occaecati-molestiae-neque-et-animi-dolorum-id-ut"},
+$2(a,b){return"/posts"},
 $S:510}
 A.abp.prototype={
 $2(a,b){return B.A9},
